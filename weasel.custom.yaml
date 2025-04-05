@@ -1,0 +1,14 @@
+customization:
+  distribution_code_name: Weasel
+  distribution_version: 0.16.3
+  generator: "Weasel::UIStyleSettings"
+  modified_time: "Sun Mar 30 22:54:00 2025"
+  rime_version: 1.11.2
+patch:
+  style:
+    color_scheme: lost_temple # 配色方案名称
+    horizontal: true # 水平候选窗口
+    inline_preedit: false # 在候选词上方显示预输入文本
+    font_face: "LXGW WenKai Mono,Segoe UI Emoji,霞鹜文楷 GB 屏幕阅读版" # 优先使用前面的字体，缺字时使用后面的字体
+    font_point: 16 # 字体大小
+   
