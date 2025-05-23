@@ -2,322 +2,399 @@
 #@/db_name	rime_ice
 #@/db_type	userdb
 #@/rime_version	1.11.2
-#@/tick	529
+#@/tick	697
 #@/user_id	PC1
-R 	R	c=1 d=0.65377 t=529
-a 	啊	c=2 d=1.22443 t=529
-an 	按	c=1 d=0.474734 t=529
-an zhuang 	安装	c=2 d=0.379501 t=529
-ba 	把	c=2 d=1.59156 t=453
-bang shou 	帮手	c=1 d=1 t=487
-bei fang 	北方	c=1 d=1 t=387
-bei ying 	背影	c=1 d=1 t=338
-bi zhi 	壁纸	c=1 d=1 t=292
-bian hua 	变化	c=1 d=0.946485 t=529
-bian ke 	便可	c=1 d=1 t=347
-bian you 	便有	c=1 d=1 t=475
-biao xian xing shi 	表现形式	c=1 d=1 t=506
-bie 	别	c=1 d=0.814647 t=529
-bing 	冰	c=1 d=1 t=438
-bing deng 	冰灯	c=5 d=3.97485 t=480
-bing tuo 	冰坨	c=1 d=1 t=458
-bing zhao 	冰罩	c=1 d=1 t=467
-bu 	不	c=0 d=0.0477114 t=529
-bu cuo 	不错	c=4 d=1.98643 t=529
-bu ding 	补丁	c=1 d=0.527292 t=529
-bu fan ye 	不翻页	c=1 d=0.479505 t=529
-bu hao shi 	不好使	c=1 d=0.470011 t=529
-bu hui 	不会	c=1 d=0.806541 t=529
-bu ke que shao 	不可缺少	c=1 d=1 t=485
-bu mie 	不灭	c=1 d=1 t=477
-bu yi ding 	不一定	c=1 d=1 t=310
-bu yu 	捕鱼	c=1 d=1 t=430
-bu zhi dao 	不知道	c=1 d=0.57695 t=529
-bu zhi ming 	不知名	c=1 d=1 t=326
-ce bian lan 	侧边栏	c=1 d=1 t=525
-ceng jing shen ai 	曾经深爱	c=1 d=1 t=358
-chang bu chu 	唱不出	c=1 d=0.701173 t=529
-chang de 	唱的	c=1 d=0.677057 t=529
-chang he luo ri yuan 	长河落日圆	c=2 d=0.955997 t=529
-cheng 	成	c=0 d=0.1 t=319
-cheng er fei 	成而非	c=1 d=1 t=320
-cheng le 	成了	c=1 d=1 t=481
-cheng wei 	成为	c=0 d=0.1 t=499
-cheng zhong 	城中	c=1 d=1 t=518
-chong ge 	充个	c=1 d=0.625002 t=529
-chu xian 	出现	c=1 d=0.810584 t=529
-chuan shuo 	传说	c=1 d=1 t=405
-chuang wai 	窗外	c=1 d=1 t=324
-ci 	此	c=1 d=1 t=511
-cong cong 	匆匆	c=1 d=1 t=336
-cong mang 	匆忙	c=1 d=1 t=378
-da chu 	打出	c=1 d=0.484325 t=529
-da xiao 	大小	c=1 d=0.763379 t=529
-da zi 	打字	c=1 d=1 t=318
-dang shi 	当时	c=1 d=1 t=446
-dang zhu 	挡住	c=1 d=1 t=468
-de 	地	c=1 d=1 t=427
-de 	的	c=38 d=17.0733 t=529
-deng 	灯	c=0 d=0.1 t=518
-deng long 	灯笼	c=1 d=1 t=441
-deng zhan 	灯盏	c=1 d=1 t=479
-di fang 	地方	c=2 d=1.64082 t=404
-di yu you shi 	地域优势	c=1 d=1 t=397
-di zhi 	地址	c=1 d=1 t=529
-ding zhe 	盯着	c=1 d=1 t=323
-dong cheng 	冻成	c=1 d=1 t=457
-dong ji 	冬季	c=1 d=1 t=409
-dou 	都	c=2 d=1.20535 t=529
-dou hao 	逗号	c=3 d=1.38867 t=529
-dou shi 	都是	c=1 d=0.591555 t=529
-du te 	独特	c=2 d=1.58275 t=503
-er 	而	c=0 d=0.1 t=499
-er cheng wei 	而成为	c=1 d=1 t=500
-er fei 	而非	c=0 d=0.1 t=319
-fa dai 	发呆	c=2 d=1.90937 t=341
-fa gun 	法棍	c=1 d=1 t=291
-fa ha 	发哈	c=1 d=0.491644 t=529
-fan den 	反扽	c=1 d=0.67368 t=529
-fan ti 	繁体	c=1 d=0.666977 t=529
-fan ye 	翻页	c=2 d=0.951055 t=529
-fan yi 	翻译	c=2 d=1.99501 t=257
-fang 	放	c=1 d=0.316637 t=529
-fang an 	方案	c=1 d=1 t=528
-fang jin 	放进	c=1 d=1 t=455
-fang zai 	放在	c=1 d=1 t=307
-fu zhi 	复制	c=1 d=0.985112 t=529
-gan jue 	感觉	c=2 d=0.70822 t=529
-ge 	个	c=2 d=0.865128 t=529
-ge zi 	鸽子	c=1 d=1 t=289
-gong ju 	工具	c=1 d=1 t=435
-gong neng 	功能	c=1 d=1 t=266
-gong ren guan shang 	供人观赏	c=1 d=1 t=501
-gong yi 	工艺	c=1 d=1 t=450
-gu lao 	古老	c=1 d=1 t=390
-guan xi 	关系	c=1 d=0.375311 t=529
-ha ha 	哈哈	c=1 d=0.282239 t=529
-ha ha 	蛤蛤	c=2 d=0.67032 t=529
-ha ha ha 	哈哈哈	c=1 d=0.529935 t=529
-hai hao 	还好	c=1 d=1 t=316
-han feng 	寒风	c=1 d=1 t=472
-hao de 	好的	c=2 d=0.71177 t=529
-hao kan 	好看	c=1 d=0.429557 t=529
-hao le 	好了	c=1 d=1 t=287
-he 	和	c=5 d=2.26186 t=529
-hei long jiang 	黑龙江	c=2 d=1.57695 t=508
-hei ye 	黑夜	c=1 d=1 t=473
-hen duo ren 	很多人	c=1 d=0.571209 t=529
-hen hao 	很好	c=1 d=1 t=344
-hen jian dan 	很简单	c=1 d=1 t=452
-hen jiu 	很久	c=1 d=1 t=340
-hen zao yi qian 	很早以前	c=1 d=1 t=407
-hou lai 	后来	c=1 d=1 t=488
-hua 	花	c=1 d=1 t=328
-hui da 	回答	c=1 d=0.402524 t=529
-hui dao 	回到	c=1 d=1 t=366
-ji bu shang 	挤不上	c=1 d=0.634448 t=529
-ji zai 	记载	c=1 d=1 t=515
-jia jie 	佳节	c=1 d=1 t=492
-jia yi 	加以	c=1 d=1 t=498
-jin gang 	金刚	c=1 d=1 t=269
-jing ji 	经济	c=1 d=0.66034 t=529
-jing jian ban 	精简版	c=1 d=1 t=276
-jing tai 	静态	c=1 d=1 t=520
-jiu shi 	就是	c=1 d=1 t=436
-jiu xiang 	就像	c=1 d=1 t=356
-ju hao 	句号	c=5 d=2.36178 t=529
-kan 	看	c=1 d=1 t=339
-kan dao 	看到	c=1 d=1 t=418
-kan de 	看得	c=1 d=1 t=353
-kan kan 	看看	c=1 d=0.748264 t=529
-kan zhe 	看着	c=1 d=0.790571 t=529
-ke 	可	c=1 d=0.421052 t=529
-ke yi shuo shi 	可以说是	c=1 d=1 t=399
-kong 	孔	c=1 d=0.609571 t=529
-kong ge 	空格	c=1 d=0.960789 t=529
-kong xin 	空心	c=1 d=1 t=460
-kuai jie fang shi 	快捷方式	c=1 d=1 t=527
-lai de 	来得	c=1 d=1 t=377
-lai de 	来的	c=1 d=1 t=376
-lai le ma 	来了吗	c=1 d=0.690734 t=529
-le 	了	c=5 d=2.01312 t=529
-li 	里	c=2 d=1.83527 t=510
-li mian 	里面	c=1 d=1 t=464
-liang ge 	两个	c=1 d=0.618783 t=529
-lin lie 	凛冽	c=1 d=1 t=470
-liu xing 	流行	c=1 d=1 t=384
-liu xing yu 	流星雨	c=1 d=1 t=383
-lu bian 	路边	c=1 d=1 t=329
-lu jing 	路径	c=1 d=0.99005 t=529
-ma 	吗	c=4 d=0.789729 t=529
-mei dao 	每到	c=1 d=1 t=408
-mei feng 	每逢	c=1 d=1 t=490
-mei feng 	没封	c=1 d=1 t=489
-meng wen 	蒙文	c=1 d=1 t=280
-mi qi 	米奇	c=0 d=0.1 t=344
-mi qi yan jing 	眯起眼睛	c=1 d=1 t=346
-mi qi yan ying 	米奇眼影	c=1 d=1 t=345
-min 	民	c=1 d=1 t=423
-min jian yi shu 	民间艺术	c=1 d=1 t=392
-ming ji zhe 	铭记着	c=1 d=1 t=362
-mo ren 	默认	c=2 d=1.73059 t=529
-mo sheng 	陌生	c=1 d=1 t=350
-mu tong li 	木桶里	c=1 d=1 t=456
-na ge 	那个	c=3 d=0.770538 t=529
-na xie 	那些	c=1 d=1 t=357
-ne 	呢	c=9 d=5.02063 t=529
-ni 	你	c=1 d=0.904837 t=529
-ni hao 	你好	c=4 d=2.95278 t=529
-ni zai 	你在	c=1 d=1 t=313
-nian dai 	年代	c=1 d=0.562705 t=529
-niu bi 	牛逼	c=1 d=0.683861 t=529
-nong fu 	农夫	c=1 d=1 t=421
-pi fu 	皮肤	c=4 d=2.35573 t=529
-pi fu he zi ti 	皮肤和字体	c=2 d=1.99501 t=262
-pin yin 	拼音	c=5 d=2.04724 t=529
-ping yuan 	平原	c=1 d=1 t=414
-qi lai 	起来	c=0 d=0.1 t=354
-qi yong 	启用	c=3 d=1.06536 t=529
-qie huan 	切换	c=1 d=1 t=529
-qing 	请	c=1 d=0.400517 t=529
-qing dai 	清代	c=1 d=1 t=507
-qing xi 	清晰	c=0 d=0.1 t=354
-qing xi qi lai 	清晰起来	c=1 d=1 t=355
-ren 	人	c=2 d=1.94176 t=373
-ren men 	人们	c=3 d=2.61074 t=495
-ru he 	如何	c=5 d=3.08127 t=529
-ruan jian 	软件	c=2 d=1.99005 t=286
-san wu cheng qun 	三五成群	c=1 d=1 t=419
-shang 	上	c=1 d=1 t=415
-shang xia fan ye 	上下翻页	c=1 d=0.50409 t=529
-shang yuan 	上元	c=1 d=1 t=517
-shang yuan 	伤员	c=1 d=1 t=516
-shang yuan zhi ye 	上元之夜	c=1 d=1 t=494
-she zhi 	设置	c=7 d=3.48828 t=529
-shen bian 	身边	c=2 d=1.84366 t=368
-shen me 	什么	c=6 d=1.68374 t=529
-shen me ye 	什么也	c=1 d=0.554327 t=529
-sheng huo 	生活	c=1 d=1 t=483
-shi 	事	c=1 d=1 t=364
-shi 	是	c=4 d=2.88754 t=382
-shi shen me 	是什么	c=1 d=1 t=285
-shi wu 	事物	c=1 d=1 t=352
-shi yi yue 	十一月	c=1 d=0.718924 t=529
-shi yong 	使用	c=5 d=2.10352 t=529
-shou ji 	手机	c=1 d=0.628135 t=529
-shu ru fa 	输入法	c=17 d=6.5455 t=529
-shuang pin 	双拼	c=7 d=3.05799 t=529
-shui 	水	c=1 d=1 t=454
-song nen 	松嫩	c=1 d=1 t=413
-suo shi yong 	所使用	c=1 d=1 t=432
-ta 	它	c=1 d=1 t=497
-ta men 	他们	c=1 d=1 t=431
-tao li 	逃离	c=1 d=0.66365 t=529
-tian jia 	添加	c=2 d=1.50224 t=529
-ting bu cuo de 	挺不错的	c=1 d=0.540641 t=529
-ting shu fu 	挺舒服	c=1 d=0.737123 t=529
-tong bu 	同步	c=1 d=1 t=258
-tu biao 	图标	c=2 d=1.97531 t=306
-wai ji 	外纪	c=1 d=1 t=509
-wei 	为	c=1 d=0.501576 t=529
-wei ma 	喂马	c=1 d=1 t=428
-wei shen me 	为什么	c=4 d=2.61591 t=529
-wei xin 	微信	c=5 d=1.6168 t=529
-wen 	文	c=3 d=2.53815 t=529
-wen jian 	文件	c=1 d=0.995012 t=529
-wen jian jia 	文件夹	c=2 d=0.511709 t=529
-wo 	我	c=1 d=1 t=367
-wo ting xi huan 	我挺喜欢	c=1 d=0.774916 t=529
-wo yu jian 	我遇见	c=1 d=1 t=369
-wu song 	雾凇	c=9 d=3.69121 t=529
-wu ye 	五夜	c=0 d=0.1 t=518
-xi huan 	喜欢	c=1 d=1 t=319
-xia 	下	c=1 d=0.514274 t=529
-xia yu 	夏雨	c=1 d=1 t=380
-xia zai 	下载	c=2 d=1.9802 t=274
-xian shi 	显示	c=1 d=0.965605 t=529
-xiang 	想	c=1 d=0.621885 t=529
-xiang ni 	像你	c=1 d=1 t=371
-xiang xi 	详细	c=2 d=1.02591 t=529
-xiao he 	小鹤	c=1 d=0.357007 t=529
-xiao lang hao 	小狼毫	c=4 d=2.30627 t=529
-xin chun 	新春	c=1 d=1 t=491
-xing dao shu 	行道树	c=1 d=1 t=332
-xing shi 	形式	c=1 d=1 t=393
-xiu gai 	修改	c=3 d=0.757388 t=529
-xue xi 	学习	c=1 d=1 t=264
-yan se 	颜色	c=1 d=0.324652 t=529
-yan ying 	眼影	c=0 d=0.1 t=344
-yang 	样	c=1 d=0.557106 t=529
-ye 	也	c=1 d=1 t=451
-ye mei shen me 	也没什么	c=1 d=0.418952 t=529
-ye wan 	夜晚	c=1 d=1 t=411
-yi ban 	一般	c=1 d=0.697676 t=529
-yi chang 	一场	c=1 d=1 t=375
-yi dian 	一点	c=1 d=0.408608 t=529
-yi dian dian 	一点点	c=1 d=1 t=354
-yi ge 	一个	c=3 d=0.970123 t=529
-yi ge ren 	一个人	c=1 d=1 t=321
-yi huo 	疑惑	c=1 d=1 t=333
-yi jing 	已经	c=1 d=0.377192 t=529
-yi qie 	一切	c=1 d=0.582748 t=529
-yi shu 	艺术	c=1 d=1 t=505
-yi xia 	一下	c=1 d=0.524663 t=529
-yi zhong 	一种	c=1 d=1 t=389
-yi zhu 	一株	c=1 d=1 t=325
-yin wei 	因为	c=1 d=1 t=394
-yin xiang 	音箱	c=1 d=1 t=290
-ying 	英	c=2 d=1.83244 t=529
-ying wen 	英文	c=4 d=1.73926 t=529
-yong 	用	c=3 d=1.06728 t=529
-yong hu 	用户	c=1 d=0.509156 t=529
-yong yi 	用以	c=1 d=1 t=465
-you ba 	又把	c=1 d=1 t=496
-you deng 	油灯	c=1 d=1 t=462
-you guo 	有过	c=1 d=1 t=512
-you jian 	右键	c=1 d=0.970446 t=529
-you ran 	悠然	c=1 d=1 t=425
-you shen me 	有什么	c=1 d=0.941765 t=529
-yu 	于	c=1 d=1 t=385
-yu yu cong cong 	郁郁葱葱	c=1 d=1 t=330
-yuan xian 	原先	c=1 d=0.600496 t=529
-yun tun 	云吞	c=1 d=1 t=281
-zai 	在	c=6 d=2.99702 t=529
-zai ci 	再次	c=1 d=1 t=365
-zao chu 	凿出	c=1 d=1 t=459
-zen me 	怎么	c=5 d=1.44266 t=529
-zhang 	张	c=0 d=0.1 t=518
-zhang deng wu ye 	张灯五夜	c=1 d=1 t=519
-zhao ming 	照明	c=2 d=1.85214 t=466
-zhe 	着	c=1 d=1 t=359
-zhe 	这	c=3 d=2.39378 t=529
-zhe bian shi 	这便是	c=1 d=1 t=442
-zhe ge 	这个	c=4 d=1.80311 t=529
-zhe ge 	这歌	c=1 d=0.694197 t=529
-zhe ge pi fu 	这个皮肤	c=1 d=0.767206 t=529
-zhe ge zi dong 	这个自动	c=1 d=1 t=263
-zhe li 	这里	c=1 d=1 t=308
-zhe me 	这么	c=1 d=0.465334 t=529
-zhe shi 	这是	c=12 d=5.08902 t=529
-zhe shi shu ru fa de 	这是输入法的	c=1 d=1 t=260
-zhe yi qie 	这一切	c=1 d=0.588605 t=529
-zhen 	真	c=2 d=1.47499 t=529
-zhi jie 	直接	c=1 d=0.481909 t=529
-zhi neng 	只能	c=1 d=0.612626 t=529
-zhi zuo 	制作	c=2 d=1.79057 t=447
-zhong 	中	c=3 d=1.02862 t=529
-zhong guo 	中国	c=1 d=1 t=386
-zhou wei 	周围	c=1 d=1 t=349
-zhu shi diao 	注释掉	c=1 d=1 t=526
-zhuang shi 	装饰	c=1 d=1 t=499
-zhuang tai 	状态	c=2 d=1.74798 t=529
-zi de 	自得	c=1 d=1 t=426
-zi dong 	自动	c=0 d=0.1 t=262
-zi ji de 	自己的	c=1 d=0.579842 t=529
-zi ran ma 	自然码	c=7 d=2.93382 t=529
-zi ti 	字体	c=3 d=1.48936 t=529
-zong hui 	总会	c=1 d=1 t=417
-zu dang 	阻挡	c=1 d=0.423162 t=529
-zui zao 	最早	c=2 d=1.81465 t=443
-zuo ce 	左侧	c=1 d=1 t=524
-zuo cheng 	做成	c=1 d=1 t=439
+R 	R	c=1 d=0.65377 t=697
+a 	啊	c=5 d=2.81455 t=697
+an 	按	c=1 d=0.474734 t=697
+an zhuang 	安装	c=4 d=1.13308 t=697
+ba 	把	c=2 d=1.08841 t=697
+bang shou 	帮手	c=1 d=0.810584 t=697
+bei fang 	北方	c=1 d=0.491644 t=697
+bei ying 	背影	c=1 d=0.384812 t=697
+bi zhi 	壁纸	c=1 d=0.305746 t=697
+bian hua 	变化	c=1 d=0.946485 t=697
+bian ke 	便可	c=1 d=0.402524 t=697
+bian you 	便有	c=1 d=0.763379 t=697
+biao xian xing shi 	表现形式	c=1 d=0.891366 t=697
+bie 	别	c=1 d=0.814647 t=697
+bing 	冰	c=1 d=0.634448 t=697
+bing deng 	冰灯	c=5 d=3.11113 t=697
+bing tuo 	冰坨	c=1 d=0.701173 t=697
+bing zhao 	冰罩	c=1 d=0.733447 t=697
+bu 	不	c=0 d=0.0477114 t=697
+bu cuo 	不错	c=4 d=1.98643 t=697
+bu ding 	补丁	c=1 d=0.527292 t=697
+bu fan ye 	不翻页	c=1 d=0.479505 t=697
+bu hao shi 	不好使	c=1 d=0.470011 t=697
+bu hao yi si 	不好意思	c=1 d=1 t=639
+bu hui 	不会	c=1 d=0.806541 t=697
+bu ke que shao 	不可缺少	c=1 d=0.802519 t=697
+bu mie 	不灭	c=1 d=0.771052 t=697
+bu yi ding 	不一定	c=1 d=0.33454 t=697
+bu yu 	捕鱼	c=1 d=0.609571 t=697
+bu zhi dao 	不知道	c=1 d=0.57695 t=697
+bu zhi ming 	不知名	c=1 d=0.362402 t=697
+cai dan 	菜单	c=2 d=1.96079 t=645
+ce bian lan 	侧边栏	c=1 d=0.980199 t=697
+ceng jing shen ai 	曾经深爱	c=1 d=0.425283 t=697
+cha jian 	插件	c=4 d=3.87365 t=558
+chang bu chu 	唱不出	c=1 d=0.701173 t=697
+chang de 	唱的	c=1 d=0.677057 t=697
+chang he luo ri yuan 	长河落日圆	c=2 d=0.955997 t=697
+cheng 	成	c=0 d=0.0349938 t=697
+cheng er fei 	成而非	c=1 d=0.351692 t=697
+cheng le 	成了	c=1 d=0.786628 t=697
+cheng wei 	成为	c=0 d=0.0860708 t=697
+cheng zhong 	城中	c=1 d=0.946485 t=697
+chong ge 	充个	c=1 d=0.625002 t=697
+chu xian 	出现	c=1 d=0.810584 t=697
+chuan shuo 	传说	c=1 d=0.537944 t=697
+chuang wai 	窗外	c=1 d=0.358796 t=697
+ci 	此	c=1 d=0.913931 t=697
+ci dian 	词典	c=1 d=1 t=575
+cong cong 	匆匆	c=1 d=0.380983 t=697
+cong mang 	匆忙	c=1 d=0.470011 t=697
+da 	大	c=1 d=1 t=665
+da chu 	打出	c=1 d=0.484325 t=697
+da kai 	打开	c=2 d=1.98511 t=569
+da xiao 	大小	c=1 d=0.763379 t=697
+da zi 	打字	c=1 d=0.348192 t=697
+dang shi 	当时	c=1 d=0.66034 t=697
+dang zhu 	挡住	c=1 d=0.737123 t=697
+de 	地	c=1 d=0.600496 t=697
+de 	的	c=51 d=17.0733 t=697
+deng 	灯	c=0 d=0.0946485 t=697
+deng long 	灯笼	c=1 d=0.644036 t=697
+deng zhan 	灯盏	c=1 d=0.778801 t=697
+di fang 	地方	c=2 d=0.878268 t=697
+di wang 	帝王	c=0 d=0.1 t=590
+di wang jiao 	帝王蕉	c=1 d=1 t=591
+di yu you shi 	地域优势	c=1 d=0.516851 t=697
+di zhi 	地址	c=1 d=1 t=697
+dian 	店	c=2 d=1.96079 t=643
+dian 	点	c=1 d=1 t=628
+ding bu 	顶部	c=0 d=0.1 t=552
+ding bu lan 	顶部栏	c=1 d=1 t=553
+ding zhe 	盯着	c=1 d=0.357007 t=697
+dong cheng 	冻成	c=1 d=0.697676 t=697
+dong ji 	冬季	c=1 d=0.548812 t=697
+dou 	都	c=2 d=1.20535 t=697
+dou hao 	逗号	c=3 d=1.38867 t=697
+dou shi 	都是	c=1 d=0.591555 t=697
+du te 	独特	c=2 d=1.38981 t=697
+er 	而	c=0 d=0.0860708 t=697
+er cheng wei 	而成为	c=1 d=0.865022 t=697
+er fei 	而非	c=0 d=0.0349938 t=697
+er tong 	儿童	c=2 d=1.97045 t=609
+fa dai 	发呆	c=2 d=0.745853 t=697
+fa gun 	法棍	c=1 d=0.304221 t=697
+fa ha 	发哈	c=1 d=0.491644 t=697
+fan den 	反扽	c=1 d=0.67368 t=697
+fan ti 	繁体	c=1 d=0.666977 t=697
+fan ye 	翻页	c=2 d=0.951055 t=697
+fan yi 	翻译	c=2 d=0.512041 t=697
+fang 	放	c=1 d=0.316637 t=697
+fang an 	方案	c=1 d=0.995012 t=697
+fang jin 	放进	c=1 d=0.690734 t=697
+fang zai 	放在	c=1 d=0.329559 t=697
+fen 	分	c=1 d=1 t=583
+fen shu 	分数	c=1 d=1 t=661
+fo shou 	佛手	c=1 d=1 t=590
+fu wu 	服务	c=1 d=1 t=535
+fu zhi 	复制	c=1 d=0.985112 t=697
+gai bian 	改变	c=1 d=1 t=552
+gan jue 	感觉	c=2 d=0.70822 t=697
+ge 	个	c=2 d=0.865128 t=697
+ge zi 	鸽子	c=1 d=0.301194 t=697
+geng xin 	更新	c=1 d=1 t=587
+gong ju 	工具	c=1 d=0.625002 t=697
+gong neng 	功能	c=1 d=0.268474 t=697
+gong ren guan shang 	供人观赏	c=1 d=0.869358 t=697
+gong yi 	工艺	c=1 d=0.67368 t=697
+gu lao 	古老	c=1 d=0.499074 t=697
+guan wang 	官网	c=1 d=1 t=655
+guan xi 	关系	c=1 d=0.375311 t=697
+ha ha 	哈哈	c=1 d=0.282239 t=697
+ha ha 	蛤蛤	c=2 d=0.67032 t=697
+ha ha ha 	哈哈哈	c=1 d=0.529935 t=697
+hai hao 	还好	c=1 d=0.344728 t=697
+han feng 	寒风	c=1 d=0.752014 t=697
+han shu 	函数	c=1 d=1 t=592
+hao de 	好的	c=2 d=0.71177 t=697
+hao kan 	好看	c=1 d=0.429557 t=697
+hao le 	好了	c=1 d=0.298197 t=697
+he 	和	c=5 d=2.26186 t=697
+hei long jiang 	黑龙江	c=2 d=1.41977 t=697
+hei ye 	黑夜	c=1 d=0.755784 t=697
+hen duo ren 	很多人	c=1 d=0.571209 t=697
+hen hao 	很好	c=1 d=0.396531 t=697
+hen jian dan 	很简单	c=1 d=0.680451 t=697
+hen jiu 	很久	c=1 d=0.38868 t=697
+hen zao yi qian 	很早以前	c=1 d=0.543351 t=697
+hou lai 	后来	c=1 d=0.814647 t=697
+hua 	花	c=1 d=0.366045 t=697
+hui da 	回答	c=1 d=0.402524 t=697
+hui dao 	回到	c=1 d=0.442639 t=697
+huo de 	获得	c=1 d=1 t=582
+ji bu shang 	挤不上	c=1 d=0.634448 t=697
+ji fen 	积分	c=1 d=1 t=586
+ji zai 	记载	c=1 d=0.932394 t=697
+jia jie 	佳节	c=1 d=0.831104 t=697
+jia yi 	加以	c=1 d=0.856415 t=697
+jian tie ban 	剪贴板	c=1 d=1 t=573
+jiao 	蕉	c=0 d=0.1 t=590
+jin gang 	金刚	c=1 d=0.272532 t=697
+jing ji 	经济	c=1 d=0.66034 t=697
+jing jian ban 	精简版	c=1 d=0.282239 t=697
+jing tai 	静态	c=1 d=0.955997 t=697
+jiu shi 	就是	c=1 d=0.628135 t=697
+jiu xiang 	就像	c=1 d=0.421052 t=697
+ju hao 	句号	c=5 d=2.36178 t=697
+kai 	开	c=1 d=1 t=562
+kan 	看	c=1 d=0.386741 t=697
+kan dao 	看到	c=1 d=0.574072 t=697
+kan de 	看得	c=1 d=0.414783 t=697
+kan kan 	看看	c=1 d=0.748264 t=697
+kan zhe 	看着	c=1 d=0.790571 t=697
+ke 	可	c=1 d=0.421052 t=697
+ke yi shuo shi 	可以说是	c=1 d=0.522046 t=697
+kong 	孔	c=1 d=0.609571 t=697
+kong 	空	c=2 d=2.00256 t=631
+kong ge 	空格	c=1 d=0.960789 t=697
+kong lie biao 	空列表	c=1 d=1 t=632
+kong xin 	空心	c=1 d=0.70822 t=697
+kuai jie fang shi 	快捷方式	c=1 d=0.99005 t=697
+kuai jie jian 	快捷键	c=1 d=1 t=630
+kuai su 	快速	c=3 d=2.33733 t=647
+lai de 	来得	c=1 d=0.467666 t=697
+lai de 	来的	c=1 d=0.465334 t=697
+lai le ma 	来了吗	c=1 d=0.690734 t=697
+lan 	栏	c=0 d=0.1 t=552
+lao nian ren 	老年人	c=1 d=1 t=617
+le 	了	c=6 d=2.01312 t=697
+li 	里	c=4 d=2.23994 t=697
+li mian 	里面	c=1 d=0.722527 t=697
+liang ge 	两个	c=1 d=0.618783 t=697
+lie biao 	列表	c=2 d=2.02168 t=631
+lin lie 	凛冽	c=1 d=0.744532 t=697
+liu lan qi 	浏览器	c=1 d=1 t=549
+liu xing 	流行	c=1 d=0.484325 t=697
+liu xing yu 	流星雨	c=1 d=0.481909 t=697
+lu bian 	路边	c=1 d=0.367879 t=697
+lu jing 	路径	c=1 d=0.99005 t=697
+ma 	吗	c=6 d=1.56698 t=697
+mei 	美	c=1 d=1 t=530
+mei dao 	每到	c=1 d=0.546074 t=697
+mei feng 	每逢	c=1 d=0.822835 t=697
+mei feng 	没封	c=1 d=0.818731 t=697
+mei you 	没有	c=1 d=1 t=640
+meng wen 	蒙文	c=1 d=0.287941 t=697
+mi qi 	米奇	c=0 d=0.0396531 t=697
+mi qi yan jing 	眯起眼睛	c=1 d=0.400517 t=697
+mi qi yan ying 	米奇眼影	c=1 d=0.398519 t=697
+min 	民	c=1 d=0.588605 t=697
+min jian yi shu 	民间艺术	c=1 d=0.50409 t=697
+ming ji zhe 	铭记着	c=1 d=0.433874 t=697
+mo ren 	默认	c=2 d=1.73059 t=697
+mo sheng 	陌生	c=1 d=0.408608 t=697
+mu tong li 	木桶里	c=1 d=0.694197 t=697
+na ge 	那个	c=3 d=0.770538 t=697
+na xie 	那些	c=1 d=0.423162 t=697
+ne 	呢	c=11 d=5.02063 t=697
+ni 	你	c=2 d=1.20528 t=697
+ni hao 	你好	c=9 d=5.33223 t=697
+ni zai 	你在	c=1 d=0.339596 t=697
+ni zhe shi 	你这是	c=1 d=1 t=694
+nian dai 	年代	c=1 d=0.562705 t=697
+nian ling 	年龄	c=1 d=1 t=596
+nin 	您	c=9 d=7.42378 t=651
+niu bi 	牛逼	c=1 d=0.683861 t=697
+nong fu 	农夫	c=1 d=0.582748 t=697
+ou lu 	欧陆	c=1 d=1 t=574
+pan duan 	判断	c=1 d=1 t=631
+pi fu 	皮肤	c=5 d=2.35573 t=697
+pi fu he zi ti 	皮肤和字体	c=2 d=0.525003 t=697
+pin yin 	拼音	c=5 d=2.04724 t=697
+ping jia 	评价	c=1 d=1 t=547
+ping yuan 	平原	c=1 d=0.562705 t=697
+qi dong 	启动	c=1 d=1 t=570
+qi lai 	起来	c=0 d=0.0416862 t=697
+qi yong 	启用	c=3 d=1.06536 t=697
+qie huan 	切换	c=2 d=1.21441 t=697
+qing 	请	c=1 d=0.400517 t=697
+qing dai 	清代	c=1 d=0.895834 t=697
+qing shu ru 	请输入	c=2 d=1.75201 t=650
+qing xi 	清晰	c=0 d=0.0416862 t=697
+qing xi qi lai 	清晰起来	c=1 d=0.418952 t=697
+quan tou 	拳头	c=1 d=1 t=667
+ren 	人	c=3 d=1.04461 t=697
+ren men 	人们	c=3 d=2.20259 t=697
+ru he 	如何	c=9 d=3.24461 t=697
+ruan jian 	软件	c=2 d=0.590468 t=697
+san wu cheng qun 	三五成群	c=1 d=0.57695 t=697
+sha bao 	沙包	c=1 d=1 t=663
+shan chu 	删除	c=1 d=1 t=534
+shang 	上	c=1 d=0.565525 t=697
+shang dian 	商店	c=1 d=1 t=538
+shang xia fan ye 	上下翻页	c=1 d=0.50409 t=697
+shang yuan 	上元	c=1 d=0.941765 t=697
+shang yuan 	伤员	c=1 d=0.937067 t=697
+shang yuan zhi ye 	上元之夜	c=1 d=0.839457 t=697
+shao nian 	少年	c=2 d=1.9802 t=610
+she zhi 	设置	c=7 d=3.48828 t=697
+shen bian 	身边	c=2 d=0.824278 t=697
+shen me 	什么	c=10 d=4.18406 t=697
+shen me ye 	什么也	c=1 d=0.554327 t=697
+sheng huo 	生活	c=1 d=0.794534 t=697
+shi 	事	c=1 d=0.438235 t=697
+shi 	是	c=6 d=2.04677 t=697
+shi ge 	是个	c=3 d=2.93143 t=612
+shi shen me 	是什么	c=1 d=0.29523 t=697
+shi wu 	事物	c=1 d=0.412714 t=697
+shi yi ge 	是一个	c=2 d=1.94649 t=616
+shi yi yue 	十一月	c=1 d=0.718924 t=697
+shi yong 	使用	c=5 d=2.10352 t=697
+shou ji 	手机	c=1 d=0.628135 t=697
+shu ru fa 	输入法	c=19 d=6.5455 t=697
+shuang pin 	双拼	c=7 d=3.05799 t=697
+shui 	水	c=1 d=0.687289 t=697
+song nen 	松嫩	c=1 d=0.559898 t=697
+suo shi yong 	所使用	c=1 d=0.615697 t=697
+ta 	它	c=1 d=0.852144 t=697
+ta men 	他们	c=1 d=0.612626 t=697
+tai cu 	太粗	c=1 d=1 t=579
+tao li 	逃离	c=1 d=0.66365 t=697
+tian jia 	添加	c=2 d=1.50224 t=697
+ting bu cuo de 	挺不错的	c=1 d=0.540641 t=697
+ting shu fu 	挺舒服	c=1 d=0.737123 t=697
+tong bu 	同步	c=2 d=0.646623 t=697
+tu biao 	图标	c=2 d=0.647734 t=697
+wai ji 	外纪	c=1 d=0.904837 t=697
+wai xing ren 	外星人	c=1 d=1 t=659
+wan jia 	玩家	c=2 d=1.98511 t=584
+wei 	为	c=1 d=0.501576 t=697
+wei huo de 	未获得	c=1 d=1 t=585
+wei ma 	喂马	c=1 d=0.603506 t=697
+wei ruan 	微软	c=1 d=1 t=537
+wei shen me 	为什么	c=4 d=2.61591 t=697
+wei xin 	微信	c=5 d=1.6168 t=697
+wei zhi 	位置	c=1 d=1 t=560
+wen 	文	c=3 d=2.53815 t=697
+wen jian 	文件	c=1 d=0.995012 t=697
+wen jian jia 	文件夹	c=3 d=0.7535 t=697
+wo 	我	c=1 d=0.444858 t=697
+wo men 	我们	c=2 d=1.96079 t=642
+wo ting xi huan 	我挺喜欢	c=1 d=0.774916 t=697
+wo yu jian 	我遇见	c=1 d=0.449329 t=697
+wu song 	雾凇	c=9 d=3.69121 t=697
+wu ye 	五夜	c=0 d=0.0946485 t=697
+xi huan 	喜欢	c=1 d=0.349938 t=697
+xia 	下	c=1 d=0.514274 t=697
+xia yu 	夏雨	c=1 d=0.474734 t=697
+xia zai 	下载	c=2 d=0.553329 t=697
+xian shi 	显示	c=1 d=0.965605 t=697
+xiang 	想	c=1 d=0.621885 t=697
+xiang ni 	像你	c=1 d=0.453845 t=697
+xiang xi 	详细	c=2 d=1.02591 t=697
+xiao he 	小鹤	c=1 d=0.357007 t=697
+xiao lang hao 	小狼毫	c=6 d=2.6473 t=697
+xiao mie 	消灭	c=1 d=1 t=657
+xie zai 	卸载	c=2 d=1.93239 t=556
+xin chun 	新春	c=1 d=0.826959 t=697
+xing dao shu 	行道树	c=1 d=0.373439 t=697
+xing shi 	形式	c=1 d=0.506617 t=697
+xiu gai 	修改	c=3 d=0.757388 t=697
+xu ni hua 	虚拟化	c=1 d=1 t=563
+xu yao 	需要	c=1 d=1 t=627
+xue xi 	学习	c=1 d=0.265803 t=697
+yan se 	颜色	c=2 d=0.629346 t=697
+yan ying 	眼影	c=0 d=0.0396531 t=697
+yang 	样	c=2 d=1.18227 t=697
+ye 	也	c=1 d=0.677057 t=697
+ye mei shen me 	也没什么	c=1 d=0.418952 t=697
+ye wan 	夜晚	c=1 d=0.554327 t=697
+yi ban 	一般	c=1 d=0.697676 t=697
+yi chang 	一场	c=1 d=0.463013 t=697
+yi dian 	一点	c=1 d=0.408608 t=697
+yi dian dian 	一点点	c=1 d=0.416862 t=697
+yi ge 	一个	c=4 d=1.03144 t=697
+yi ge ren 	一个人	c=1 d=0.353455 t=697
+yi huo 	疑惑	c=1 d=0.375311 t=697
+yi jing 	已经	c=1 d=0.377192 t=697
+yi qie 	一切	c=1 d=0.582748 t=697
+yi shu 	艺术	c=1 d=0.88692 t=697
+yi xia 	一下	c=1 d=0.524663 t=697
+yi yang 	一样	c=1 d=1 t=664
+yi zhi 	一直	c=1 d=1 t=576
+yi zhong 	一种	c=1 d=0.496585 t=697
+yi zhu 	一株	c=1 d=0.360595 t=697
+yin wei 	因为	c=1 d=0.509156 t=697
+yin xiang 	音箱	c=1 d=0.302704 t=697
+ying 	英	c=2 d=1.83244 t=697
+ying er 	婴儿	c=1 d=1 t=600
+ying wen 	英文	c=4 d=1.73926 t=697
+ying yong 	应用	c=1 d=1 t=540
+yong 	用	c=3 d=1.06728 t=697
+yong hu 	用户	c=1 d=0.509156 t=697
+yong hu ming 	用户名	c=1 d=1 t=653
+yong yi 	用以	c=1 d=0.726149 t=697
+you ba 	又把	c=1 d=0.847894 t=697
+you bi yao 	有必要	c=1 d=1 t=561
+you deng 	油灯	c=1 d=0.715338 t=697
+you guo 	有过	c=1 d=0.918512 t=697
+you jian 	右键	c=1 d=0.970446 t=697
+you ran 	悠然	c=1 d=0.594521 t=697
+you shen me 	有什么	c=1 d=0.941765 t=697
+yu 	于	c=1 d=0.486752 t=697
+yu yu cong cong 	郁郁葱葱	c=1 d=0.369723 t=697
+yuan xian 	原先	c=1 d=0.600496 t=697
+yun tun 	云吞	c=1 d=0.289384 t=697
+zai 	在	c=8 d=2.99702 t=697
+zai ci 	再次	c=1 d=0.440432 t=697
+zao chu 	凿出	c=1 d=0.704688 t=697
+zen me 	怎么	c=8 d=2.48362 t=697
+zhang 	张	c=0 d=0.0946485 t=697
+zhang deng wu ye 	张灯五夜	c=1 d=0.951229 t=697
+zhao ming 	照明	c=2 d=1.35167 t=697
+zhe 	着	c=1 d=0.427415 t=697
+zhe 	这	c=3 d=2.39378 t=697
+zhe bian shi 	这便是	c=1 d=0.647265 t=697
+zhe bu shi 	这不是	c=1 d=1 t=618
+zhe ge 	这个	c=6 d=2.61627 t=697
+zhe ge 	这歌	c=1 d=0.694197 t=697
+zhe ge pi fu 	这个皮肤	c=1 d=0.767206 t=697
+zhe ge zhu ti 	这个主题	c=1 d=1 t=683
+zhe ge zi dong 	这个自动	c=1 d=0.264477 t=697
+zhe kuan 	这款	c=1 d=1 t=548
+zhe li 	这里	c=1 d=0.331211 t=697
+zhe me 	这么	c=1 d=0.465334 t=697
+zhe shi 	这是	c=15 d=5.08902 t=697
+zhe shi shu ru fa de 	这是输入法的	c=1 d=0.26054 t=697
+zhe yi qie 	这一切	c=1 d=0.588605 t=697
+zhen 	真	c=2 d=1.47499 t=697
+zhi ding 	置顶	c=1 d=1 t=577
+zhi jie 	直接	c=1 d=0.481909 t=697
+zhi neng 	只能	c=1 d=0.612626 t=697
+zhi zuo 	制作	c=2 d=1.18831 t=697
+zhong 	中	c=3 d=1.02862 t=697
+zhong guo 	中国	c=1 d=0.489192 t=697
+zhong qing nian 	中青年	c=1 d=1 t=613
+zhong wen 	中文	c=1 d=1 t=578
+zhou wei 	周围	c=1 d=0.40657 t=697
+zhu shi diao 	注释掉	c=1 d=0.985112 t=697
+zhu ti 	主题	c=5 d=4.79171 t=696
+zhuang shi 	装饰	c=1 d=0.860708 t=697
+zhuang tai 	状态	c=2 d=1.74798 t=697
+zi de 	自得	c=1 d=0.597501 t=697
+zi dian 	字典	c=1 d=1 t=654
+zi dong 	自动	c=0 d=0.0263158 t=697
+zi ji de 	自己的	c=1 d=0.579842 t=697
+zi ran ma 	自然码	c=7 d=2.93382 t=697
+zi ti 	字体	c=4 d=1.48936 t=697
+zong hui 	总会	c=1 d=0.571209 t=697
+zu dang 	阻挡	c=1 d=0.423162 t=697
+zui mei 	最美	c=1 d=1 t=536
+zui zao 	最早	c=2 d=1.18045 t=697
+zuo ce 	左侧	c=1 d=0.97531 t=697
+zuo cheng 	做成	c=1 d=0.637628 t=697
